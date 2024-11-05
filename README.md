@@ -6,3 +6,9 @@
 https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/excel_sales_data1.PNG
 
   2.
+
+
+  3. https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/Region.PNG
+
+
+ 
