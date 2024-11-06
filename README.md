@@ -16,6 +16,17 @@ https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/excel_sales_data1.P
 https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/salesdata1.PNG
 
 
+### Total Revenues by Region
+
+    - I ensure that i have a table for with columns for Region and Sales Amount
+    - I use the SUMIF function to calculate the total revenues for each region.
+    - Example =SUMIF(C2:C5001,C3,G2)
+    
+
+
+    
+
+
 
   3. https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/Region.PNG
 
