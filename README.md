@@ -20,7 +20,9 @@ https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/salesdata1.PNG
 
     - I ensure that i have a table for with columns for Region and Sales Amount
     - I use the SUMIF function to calculate the total revenues for each region.
-    - Example =SUMIF(C2:C5001,C3,G2)
+    - Example =SUMIF(C2:C5001,C3,G2) =37387894
+    - View table belew
+https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/customer.PNG
     
 
 
