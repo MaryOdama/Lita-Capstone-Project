@@ -2,7 +2,7 @@
 
 ###  Excel:
 
-  -  An exploration of sales data, using pivot table for data summarization of tolal sales by products,region and months. View table below
+  -  An exploration of sales data, using pivot table for data summarization of total sales by products,region and months. View table below
 
 https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/excel_sales_data1.PNG
 
@@ -28,7 +28,13 @@ https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/customer.PNG
 
  ### An Interesting Report
     - used pivot table to summarize Revenue by Region
+    - Table below
   https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/Region.PNG
+
+
+
+### SQL
+
 
 
  
