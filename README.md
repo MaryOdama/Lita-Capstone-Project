@@ -10,7 +10,10 @@ https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/excel_sales_data1.P
 
    - I ensure that i have a table with columns for Product Name and Sales Amount.
    - I use the AVERAGEIF function to calculate the Average sales for each product.
-   - Example =AVERAGEIF()
+   - Example =AVERAGEIF(C2:C5001,C3,G2)
+   - View table below
+
+https://github.com/MaryOdama/Lita-Capstone-Project/blob/main/salesdata1.PNG
 
 
 
